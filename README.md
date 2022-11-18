@@ -1,2 +1,1 @@
-# 2022-discordbot-class
-2022. Discord.JS로 디코 봇 만들기 강의
+# Discord.JS로 디스코드 봇 만들기!
